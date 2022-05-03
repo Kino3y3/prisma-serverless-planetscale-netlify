@@ -25,7 +25,7 @@ export default function Index() {
       );
 
       setPosts(allPosts);
-      setLoadPost(false);
+      setLoadPosts(false);
     }
 
     load();
